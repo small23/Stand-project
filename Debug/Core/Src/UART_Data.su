@@ -1,0 +1,6 @@
+UART_Data.c:12:9:UARTCHECK_UART1_BytesAvailable	4	static
+UART_Data.c:20:9:UARTCHECK_UART1_GetByte	4	static
+UART_Data.c:30:6:UARTCHECK_UART1_ClearBuffer	4	static
+UART_Data.c:35:9:UARTCHECK_UART2_BytesAvailable	4	static
+UART_Data.c:43:9:UARTCHECK_UART2_GetByte	4	static
+UART_Data.c:53:6:UARTCHECK_UART2_ClearBuffer	4	static

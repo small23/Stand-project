@@ -1,0 +1,3 @@
+correction.c:41:6:DimasCorr	32	static
+correction.c:82:6:MoveCorr	48	static
+correction.c:97:7:SpeedCorr	32	static

@@ -1,0 +1,10 @@
+div268n.c:34:6:_DIV268N_DirSetReset	16	static
+div268n.c:70:6:_DIV268N_PinSet	16	static
+div268n.c:75:6:_DIV268N_PinReset	16	static
+div268n.c:80:6:_DIV268N_PrepareMove	24	static
+div268n.c:119:6:_DIV268N_MoveRL	32	static
+div268n.c:171:6:DIV268N_Init	16	static
+div268n.c:246:6:DIV268N_Move	16	static
+div268n.c:252:9:DIV268N_ShowSteps	16	static
+div268n.c:257:6:DIV268N_WriteSteps	16	static
+div268n.c:262:6:DIV268N_WriteSpeed	24	static

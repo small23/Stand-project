@@ -1,0 +1,2 @@
+eeprom.c:11:6:EEPROM_WriteSteps	48	static
+eeprom.c:33:6:EEPROM_ReadSteps	48	static

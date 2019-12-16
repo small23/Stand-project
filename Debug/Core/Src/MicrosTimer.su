@@ -1,0 +1,3 @@
+MicrosTimer.c:11:6:MicrosTimer_TIM_IRQHandler	4	static
+MicrosTimer.c:16:10:MicrosTimer_Micros	4	static
+MicrosTimer.c:21:6:MicrosTimer_ResetMicros	4	static

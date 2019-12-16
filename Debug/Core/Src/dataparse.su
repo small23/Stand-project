@@ -1,0 +1,7 @@
+dataparse.c:27:7:_convert_slice	56	static
+dataparse.c:54:5:_USER_Data_InsertToMassive	48	static
+dataparse.c:85:6:USER_Data_Parse_Old	48	static
+dataparse.c:128:6:USER_Data_Parse_Command	4	static
+dataparse.c:133:6:USER_Data_Parse_Movement	96	static
+dataparse.c:172:6:USER_DataPasre_ManualControl	88	static
+dataparse.c:193:6:USER_Data_Parse_Analys	48	static

@@ -1,0 +1,10 @@
+DIV268N_StandConfigLib.c:27:6:_DIV268N_DirSetReset	16	static
+DIV268N_StandConfigLib.c:63:6:_DIV268N_PinSetResetV2	16	static
+DIV268N_StandConfigLib.c:76:6:_DIV268N_PinSetResert	16	static
+DIV268N_StandConfigLib.c:112:6:_DIV268N_resetPinState	16	static
+DIV268N_StandConfigLib.c:118:6:_DIV268N_PrepareMove	24	static
+DIV268N_StandConfigLib.c:157:6:_DIV268N_MoveRL	32	static
+DIV268N_StandConfigLib.c:200:6:DIV268N_Init	16	static
+DIV268N_StandConfigLib.c:233:6:DIV268N_Move	16	static
+DIV268N_StandConfigLib.c:239:9:DIV268N_ShowSteps	16	static
+DIV268N_StandConfigLib.c:244:6:DIV268N_WriteSteps	16	static

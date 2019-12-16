@@ -1,0 +1,6 @@
+serial.c:13:9:SERIAL_UART1_BytesAvailable	4	static
+serial.c:21:9:SERIAL_UART1_GetByte	4	static
+serial.c:31:6:SERIAL_UART1_ClearBuffer	4	static
+serial.c:36:9:SERIAL_UART4_BytesAvailable	4	static
+serial.c:44:9:SERIAL_UART4_GetByte	4	static
+serial.c:54:6:SERIAL_UART4_ClearBuffer	4	static
